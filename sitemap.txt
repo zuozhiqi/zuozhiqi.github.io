@@ -1,9 +1,9 @@
-http://zuozhiqi.github.io/categories/index.html
 http://zuozhiqi.github.io/books/index.html
+http://zuozhiqi.github.io/categories/index.html
 http://zuozhiqi.github.io/about/index.html
 http://zuozhiqi.github.io/2021/06/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/
-http://zuozhiqi.github.io/tags/index.html
 http://zuozhiqi.github.io/repository/index.html
+http://zuozhiqi.github.io/tags/index.html
 http://zuozhiqi.github.io/links/index.html
 http://zuozhiqi.github.io/404.html
 http://zuozhiqi.github.io/
